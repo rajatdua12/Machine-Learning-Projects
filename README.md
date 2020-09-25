@@ -1,0 +1,2 @@
+# Machine-Learning-Projects-
+In this repository, I have incorporated some of my projects involving Machine Learning Algorithms such as Linear Regression, Logistic Regression, Neural Network, Natural Language Processing, and Quadratic discriminant analysis. These projects were highly intuitive in making me understand how complex process and analysis could be simply implemented using pre-defined Machine Learning Library. It helps reduce time, decrease human effort, increase productivity and efficiency.
